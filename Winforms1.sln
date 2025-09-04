@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2_CatalogoWinforms", "TP2_CatalogoWinforms\TP2_CatalogoWinforms.csproj", "{74FCBB05-338A-4CB8-8C46-C48B0B229BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74FCBB05-338A-4CB8-8C46-C48B0B229BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FCBB05-338A-4CB8-8C46-C48B0B229BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FCBB05-338A-4CB8-8C46-C48B0B229BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FCBB05-338A-4CB8-8C46-C48B0B229BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E10F946-5678-4C27-9B40-88A03F8516FC}
+	EndGlobalSection
+EndGlobal
