@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TP2_CatalogoWinforms
-{
+{  //cambios
     internal class Articulo
     {
         public int Id { get; set; }
